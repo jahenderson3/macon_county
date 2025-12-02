@@ -52,16 +52,23 @@ body{
     font-weight: 700;
   }
   
-  p{
+  .home-section h2{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: .75rem;
+  }
+  
+  .home-section p{
     font-size: 1rem;
     font-weight: 400;
+    line-height: 1.6;
   }
 
   .footer {
     background-color: #FFC763;
     color: #000000;
-    font-weight: 300;
-    font-size: 
+    font-weight: 400;
+    font-size: .8rem;
   }
   
   a {
