@@ -1,5 +1,11 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
 .my-navbar{
     background-color: #17166D;
+    font-size: 1.5rem;
+    font-weight: 600;
   }
   .my-navbar .nav-link {
     color: #ffffff !important;   
@@ -35,14 +41,27 @@
   }
   
   .home-carousel img {
-    height: 350px;          
+    height: 350px;
+    width: 100%;      
     object-fit: cover;      
-    object-position: center;
+    object-position: bottom;
+  }
+
+  h1{
+    font-size: 2.5rem;
+    font-weight: 700;
   }
   
+  p{
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
   .footer {
     background-color: #FFC763;
     color: #000000;
+    font-weight: 300;
+    font-size: 
   }
   
   a {
