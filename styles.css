@@ -36,9 +36,8 @@
   
   .home-carousel img {
     height: 350px;          
-    object-fit: contain;      
+    object-fit: cover;      
     object-position: center;
-    background-color: #FFC763;
   }
 
   .footer {
