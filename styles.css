@@ -34,7 +34,7 @@
     font-size: 24pt;
   }
   
-  .hero-carousel img {
+  .home-carousel img {
     height: 350px;          
     object-fit: cover;      
     object-position: center;
@@ -56,13 +56,13 @@
   }
   
   @media (max-width: 768px) {
-    .hero-carousel img {
+    .home-carousel img {
       height: 220px;        
     }
   }
   
   @media (max-width: 480px) {
-    .hero-carousel img {
+    .home-carousel img {
       height: 160px;        
     }
   }
