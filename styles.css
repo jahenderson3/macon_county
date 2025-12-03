@@ -33,6 +33,11 @@ body{
       z-index: 20;  
   
   }
+
+  .navbar-toggler{
+    z-index: 9999;
+    position: relative;
+  }
   
   .brand-text {
     padding-left: 165px;   
